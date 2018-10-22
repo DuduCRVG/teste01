@@ -11,7 +11,7 @@ namespace lucas
         static void Main(string[] args)
         {
             Console.WriteLine("Lucas");
-            Console.WriteLine("mateus");
+            
         }
     }
 }
